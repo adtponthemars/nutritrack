@@ -52,7 +52,7 @@ export const addFoodLog = async (req, res) => {
       foodLog: savedFoodLog,
     });
   } catch (error) {
-    console.error("❌ Error saving food log:", error);
+    console.error(" Error saving food log:", error);
     res.status(500).json({ message: "Server error" });
   }
 };
