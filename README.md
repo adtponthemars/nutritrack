@@ -1,1 +1,1 @@
-a website to help users track thier daily nutrition track. 
+a website to help users track their daily nutrition track. 
