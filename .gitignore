@@ -1,0 +1,15 @@
+backend/node_modules/
+backend/.env
+backend/serviceAccountKey.json
+
+# Frontend env
+frontend/.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
