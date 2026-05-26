@@ -45,21 +45,27 @@ Activity level
 -Daily progress
 
 ###SCREENSHOTS 
+
 ###Homepage 
+
 ![Homepage](./screenshots/home.png) 
 ![Homepage](./screenshots/home1.png) 
 
 ## Add Food Logs
+
 ![Food Logs](./screenshots/nutritionFinder.png)
-![Food Logs](./screenshots/nutritionFinder2.png)
+![Food Logs](./screenshots/nutrtitionFinder2.png)
 
 ##Dashboard Page
+
 ![Dashboard Page](./screenshots/dashboard.png)
 
 ##Profile Page 
+
 ![Profile Page](./screenshots/profile.png) 
 
 ##Calculate Nutrition Requirement
+
 ![Calculate Nutrition Requirement](./screenshots/nutritionCalculator.png)  
 
 
